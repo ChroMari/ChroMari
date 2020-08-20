@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 
 <h2>Мои контакты</h2>
 <ul>
-  <li>Моё резюме: https://hh.ru/resume/fa1b3b2bff07d92d890039ed1f626d7a55534d</li>
   <li>Моя почта: chromarija@gmail.com </li>
 </ul>
