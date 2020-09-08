@@ -29,4 +29,11 @@ Here are some ideas to get you started:
   <li>Реализация своего личного приложения, для планирования времени и совмещания с to-do лист. Вдохновлён 10 minutes planner https://github.com/ChroMari/D-planner (Работа идёт 👋)</li>
 </ul>
 
+<h2>Способы со мной связаться</h2>
+<ul>
+  <li>chromarija@gmail.com</li>
+  <li>Telegram - ChroMari</li>
+  <li>Discord - Mari foxy#0371</li>
+</ul>
+
 💻 Пример моей любви к решению задач: https://www.codewars.com/users/Mari%20
