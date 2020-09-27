@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 <h2>Способы со мной связаться</h2>
 <ul>
   <li>chromarija@gmail.com</li>
-  <li>Telegram - ChroMari</li>
   <li>Discord - Mari foxy#0371</li>
 </ul>
 
