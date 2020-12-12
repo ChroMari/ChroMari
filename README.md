@@ -32,7 +32,6 @@ Here are some ideas tрпрорo get you started:
 <h2>Способы со мной связаться</h2>
 <ul>
   <li>chromarija@gmail.com</li>
-  <li>Discord - Mari foxy#0371</li>
 </ul>
 
 💻 Пример моей любви к решению задач: https://www.codewars.com/users/Mari%20
